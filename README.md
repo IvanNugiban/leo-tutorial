@@ -5,8 +5,8 @@
 
 #### Links:    
 - What is Leo? : https://medium.com/@ukraineee/leo-programming-language-61f4576afcff   
-- Chapter 1: https://medium.com/@ukraineee/leo-for-beginners-hello-world-fa512f41f2b3 \
-- Chapter 2: Soon...\
+- Chapter 1: https://medium.com/@ukraineee/leo-for-beginners-hello-world-fa512f41f2b3    
+- Chapter 2: Soon...       
 - Chapter 3: Soon...
 
 #### **Aleo socials**: 
