@@ -15,3 +15,9 @@
 - [Twitter](https://twitter.com/AleoHQ)    
 - [Discord](https://discord.gg/aleo)    
 - [GitHub](https://github.com/AleoHQ)
+  
+#### **My socials**: 
+
+- [Twitter](https://twitter.com/IvanNugiban)    
+- Discord: ivannugiban
+
